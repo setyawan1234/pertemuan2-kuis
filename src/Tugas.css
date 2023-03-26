@@ -1,0 +1,95 @@
+
+.form-control{
+    text-align: center;
+}
+
+.container{
+    padding: 2px 16px 16px;
+    background-color: white;
+}
+
+.form-login{
+    padding:5px;
+}
+
+input[type=text]{
+    width: 70%;
+    padding:10px;
+    margin: 15px;
+    box-sizing: border-box;
+    color:black;
+    border-radius: 2%e;
+}
+
+.row-description{
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        width: 30%;
+        padding:50px; 
+        margin-top: 15px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+input[type=password]{
+    width: 70%;
+    padding: 10px;
+    margin: 15px;
+    box-sizing: border-box;
+    border-radius: 2%;
+    color:black;
+}
+
+.text-username{
+    font-size: medium;
+    font-family: sans-serif;
+    font-style: bold;
+}
+
+.text-password{
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+.button1{
+    background-color: green; /* Green */
+    border: none;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 15px 2px;
+    cursor: pointer;
+    width: 95%;
+}
+
+input[type=checkbox]{
+    padding: 20px;
+    margin:15px;
+}
+.button2{
+    background-color:crimson;
+    border: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 50px;
+    cursor: pointer;
+    width: 30%;
+    position: relative;
+}
+
+.button1:hover{
+    background-color: mediumseagreen;
+}
+
+.button2:hover{
+    background-color: brown;
+}
+
