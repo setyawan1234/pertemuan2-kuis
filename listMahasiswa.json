@@ -1,0 +1,54 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 2,
+      "NIM": 2041720269,
+      "nama": "Mahasiswa X",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081802023523",
+      "angkatan": 2020,
+      "status": "Lulus"
+    },
+    {
+      "userId": 1,
+      "id": 1679383446409,
+      "NIM": "2041720059",
+      "nama": "Gilang Setyawan",
+      "alamat": "Jl. Dewi Sartika No.22 Temas, Batu Jawa Timur",
+      "hp": "085707011668",
+      "angkatan": "2023",
+      "status": "Aktif"
+    },
+    {
+      "userId": 1,
+      "id": 1679384938644,
+      "NIM": "2041720011",
+      "nama": "Farrel Valentino Bekti",
+      "alamat": "Kediri Pare Jawa Timur",
+      "hp": "085123456789",
+      "angkatan": "2021",
+      "status": "Aktif"
+    },
+    {
+      "userId": 1,
+      "id": 1679385055532,
+      "NIM": "2041720055",
+      "nama": "Mahisa Aghisni Fadli",
+      "alamat": "Gedek Mojokerto Jawa Timur",
+      "hp": "08523456789",
+      "angkatan": "2017",
+      "status": "Lulus"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
